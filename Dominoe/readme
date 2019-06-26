@@ -1,0 +1,4 @@
+This project allows you to create a set of dominoes that you can create a circluler train with and then uses Hierholzer's 
+graph algorithm to create a loop from theses dominoes.
+There is currently a case where the implementation of the algorithm fails to create a loop....aperently. Though this could be when
+the set of dominoes is not created by the provided function.
